@@ -1,6 +1,6 @@
 # KODLUYORUZ-ILKREPO
 
-Bu repo **MÜ BAŞLANGIÇ PROGRAMI KAPSAMINDA**ilk repo. İçinde bir adet README dosyası ,bir adet index.html dosyası bulunmaktadır.
+Bu repo **MÜ  YAZILIMA BAŞLANGIÇ PROGRAMI KAPSAMINDA**ilk repo. İçinde bir adet README dosyası ,bir adet index.html dosyası bulunmaktadır.
 
 ## Kurulum
 
